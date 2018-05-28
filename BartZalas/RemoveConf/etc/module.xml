@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @copyright: Copyright © 2018 BartZalas All rights reserved.
+ * @author   : Bart Zalas <bartzalas@gmail.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="BartZalas_RemoveConf" setup_version="0.0.1" />
+</config>
